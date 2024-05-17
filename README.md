@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @qdanh04
 - 👀 I’m game developer 
-- 🌱 I am using Unity Engine to create games
+- 🌱 I’m using Unity Engine to create games
 - 📫 How to reach me: quyendanh04@gmail.com
 
 <a href="https://www.facebook.com/qindanh.nguyen/" rel="nofollow">
