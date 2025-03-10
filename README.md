@@ -5,5 +5,4 @@
 - 👋 Hi, I’m @qdanh04
 - 👀 I’m game developer 
 - 🌱 I’m using Unity Engine to create games
-- 👨🏽‍💻 Currently working at 1TEK GAMI
 - 📫 How to reach me: quyendanh04@gmail.com
